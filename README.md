@@ -26,7 +26,7 @@ We provide blaze powder to rod (crafting), and prismarine shard to crystal (smel
 
 Until now the mod only supports English and Chinese (Simplified/Traditional). Welcome to provide accurate translation of other languages!
 
-The mod is created by MCreator and is open source on Github. You can get the zip pack of workspace on it.
+The mod is created by MCreator and is open source on Github. You can get the zip pack of workspace on it. https://github.com/akio3976/Infinite-Light/
 
 Discord/X: Akio_3976 (Irregularly online)
 
