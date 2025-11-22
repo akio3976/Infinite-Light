@@ -3,7 +3,7 @@ This mod mainly focused on a more convenient way to get lighting materials, whic
 Supported Version:
 
 Neoforge 1.21.1
-
+We intend to supplement 1.21.4 version and fabric versions in the coming several updates.
 
 
 -Fluorescent Powder
