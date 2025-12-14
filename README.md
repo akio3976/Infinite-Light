@@ -8,6 +8,7 @@ Neoforge 1.21.1/1.21.4
 -Fluorescent Powder
 
 An item unified almost all glowing materials. You can make it from glow berries, glow inc sacs, glowstone powder, prismarine crystals, etc. Specially it provides really easy crafting routes for sea lantern, froglight and end rod, which are hard to mass-produce previously. You can also buy it from cleric villager.
+If you use it on mushrooms, some magic changes may happen...
 
 -Leather Glue
 
