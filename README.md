@@ -5,20 +5,21 @@ Supported Version:
 Neoforge 1.21.1/1.21.4
 
 
--Fluorescent Powder
+## Fluorescent Powder
 
 An item unified almost all glowing materials. You can make it from glow berries, glow inc sacs, glowstone powder, prismarine crystals, etc. Specially it provides really easy crafting routes for sea lantern, froglight and end rod, which are hard to mass-produce previously. You can also buy it from cleric villager.
+
 If you use it on mushrooms, some magic changes may happen...
 
--Leather Glue
+## Leather Glue
 
 You can smoke leather into glue by furnace or smoker. It's a kind of auxiliary item for froglight crafting.
 
--Pure Lamps
+## Pure Lamps
 
 We have pure lighting blocks for your modern style buildings. It also have a redstone type - special property is waiting for your discovery!
 
--Recipes
+## Recipes
 
 We provide blaze powder to rod (crafting), and prismarine shard to crystal (smelting) recipes. That's especially useful when Create is used at the same time. 
 
