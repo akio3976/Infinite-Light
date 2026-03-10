@@ -1,9 +1,9 @@
 This mod mainly focused on a more convenient way to get lighting materials, which is needed to light up your massive scale buildings under survival mode. It's highly independent, and combines well with original version with minimum modification.
 
-Supported Version:
+### **Supported Version:**
 
-Neoforge 1.21.1/1.21.4
-
+#### Neoforge 1.21.1/1.21.4
+#### Forge 1.20.1
 
 ## Fluorescent Powder
 
